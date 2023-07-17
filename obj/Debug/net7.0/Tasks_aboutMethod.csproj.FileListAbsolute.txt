@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\bin\Debug\net7.0\Tasks_aboutMethod.exe
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\bin\Debug\net7.0\Tasks_aboutMethod.deps.json
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\bin\Debug\net7.0\Tasks_aboutMethod.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\bin\Debug\net7.0\Tasks_aboutMethod.dll
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\bin\Debug\net7.0\Tasks_aboutMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.dll
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\refint\Tasks_aboutMethod.dll
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.pdb
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\Tasks_aboutMethod.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\Tasks_aboutMethod\obj\Debug\net7.0\ref\Tasks_aboutMethod.dll
