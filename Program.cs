@@ -22,7 +22,7 @@
 //        if (arr[i] < 20)
 //        {
 //            arr[i] = arr[i] + (arr[i] * per) / 100;
-
+  //           continue;
 //        }
 //        total = total + arr[i];
 //    }
